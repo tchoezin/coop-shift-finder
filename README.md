@@ -1,0 +1,1 @@
+# coop-shift-finder
